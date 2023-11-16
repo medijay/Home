@@ -1,0 +1,22 @@
+{
+    "portfolio" : [
+        {
+            "cover": "/portfolio/1/one.png",
+            "title": "GGWP",
+            "description": "React, JSX, css",
+            "url": "https://mjcodetest.netlify.app/"
+        },
+        {
+            "cover":"/portfolio/1/two.png",
+            "title":"GGWP",
+            "description":"React, JSX, css",
+            "url":"https://medijayrapidapi.netlify.app/"
+        },
+        {
+            "cover":"/portfolio/1/three.png",
+            "title":"GGWP",
+            "description":"React, JSX, css",
+            "url":"https://mjfitnessapp.netlify.app/"
+        }
+    ]
+}
